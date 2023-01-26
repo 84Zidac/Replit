@@ -1,15 +1,18 @@
-.africa {
-  color: blue;
+h1 {
+  color:purple;
+
 }
 
-.harryPotter{
-  color:gold;
+h2 {
+  color: yellow;
+
 }
 
-.likesToQuack.fight1Or100 {
-  color: blueviolet;
+article > h2 {
+  color: red;
+
 }
 
-#rhino {
-  color: black
+section > article > h2 {
+  color: orange;
 }
