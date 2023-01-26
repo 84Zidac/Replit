@@ -1,18 +1,7 @@
 h1 {
-  color:purple;
-
+  color: red
 }
 
-h2 {
-  color: yellow;
-
-}
-
-article > h2 {
-  color: red;
-
-}
-
-section > article > h2 {
-  color: orange;
+h1 {
+  color: blue
 }
